@@ -209,9 +209,10 @@ const animationTimeline = () => {
       0.2
     )
     .from(
-      ".lydia-dp",
+      ".arun-dp",
       0.5,
       {
+        height:30,
         scale: 3.5,
         opacity: 0,
         x: 25,
